@@ -104,4 +104,4 @@ All journal entries are stored locally on the device using AsyncStorage. No data
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+You are free to cloning this repository
